@@ -1,7 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - 我的全新 Hugo 网站11</title>
+        <title>Categories - Category - Aurora&#39;s Blob</title>
         <link>http://example.org/categories/</link>
-        <description>Categories - Category - 我的全新 Hugo 网站11</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+        <description>Categories - Category - Aurora&#39;s Blob</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>allenchang0756@gmail.com (aurorav)</managingEditor>
+            <webMaster>allenchang0756@gmail.com (aurorav)</webMaster><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
